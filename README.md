@@ -1,3 +1,10 @@
+## Flow
+
+- Used antd for the structuring and used axios for the getting the products
+- Used Websockets for getting the realtime data.
+
+### It takes few seconds to fetch the initial values after that it receives every seconds.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
