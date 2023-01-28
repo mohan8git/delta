@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/delta/static/css/main.6241ab4a.css",
+    "main.js": "/delta/static/js/main.7675606e.js",
+    "index.html": "/delta/index.html",
+    "main.6241ab4a.css.map": "/delta/static/css/main.6241ab4a.css.map",
+    "main.7675606e.js.map": "/delta/static/js/main.7675606e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6241ab4a.css",
+    "static/js/main.7675606e.js"
+  ]
+}
